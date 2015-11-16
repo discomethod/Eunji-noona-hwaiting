@@ -1,3 +1,3 @@
 # Eunji-noona-hwaiting
 
-yay
+im older than eunji
