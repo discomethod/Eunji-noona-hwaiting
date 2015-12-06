@@ -27,7 +27,7 @@ __pycache__
 .coverage
 *.swp
 
-#--- standard Python.gitignore below this line ---#
+#--- standard Python.gitignore ---#
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
